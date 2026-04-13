@@ -18,10 +18,13 @@ The goal of this project was not just to perform calculations, but to build a re
 - Clean and structured control flow
 
 ## Example Usage
-- Enter first number: 10
-- Enter an operator or exit: /
-- Enter second number: 2
-- Result: 5.0
+
+```text
+Enter first number: 10
+Enter an operator or exit: /
+Enter second number: 2
+Result: 5.0
+```
 
 ## Key Concepts Used
 
@@ -32,20 +35,31 @@ The goal of this project was not just to perform calculations, but to build a re
 - Control flow logic
 
 ## Project Structure
-calculator.py
 
+```text
+calculator.py
 README.md
+```
 
 ## How to Run
 
-1. Clone the repository: https://github.com/prajsoni/interactive-python-calculator.git
+1. Clone the repository:
+
+```bash
+git clone https://github.com/prajsoni/interactive-python-calculator.git
+```
 
 2. Navigate to the folder:
+
+```bash
 cd interactive-python-calculator
+```
 
 3. Run the program:
-python calculator.py
 
+```bash
+python calculator.py
+```
 
 ## Future Improvements
 
