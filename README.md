@@ -18,10 +18,10 @@ The goal of this project was not just to perform calculations, but to build a re
 - Clean and structured control flow
 
 ## Example Usage
-Enter first number: 10
-Enter an operator or exit: /
-Enter second number: 2
-Result: 5.0
+- Enter first number: 10
+- Enter an operator or exit: /
+- Enter second number: 2
+- Result: 5.0
 
 ## Key Concepts Used
 
@@ -33,13 +33,12 @@ Result: 5.0
 
 ## Project Structure
 calculator.py
-README.md
 
+README.md
 
 ## How to Run
 
-1. Clone the repository:
-git clone https://github.com/your-username/interactive-python-calculator.git
+1. Clone the repository: https://github.com/prajsoni/interactive-python-calculator.git
 
 2. Navigate to the folder:
 cd interactive-python-calculator
